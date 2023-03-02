@@ -8,7 +8,7 @@
 
 ## 💻 Projeto
 
-https://user-images.githubusercontent.com/92122337/219280911-0d2b7aca-1e55-44d3-bc64-2844994fb167.mp4
+https://user-images.githubusercontent.com/92122337/222561778-1aa9a0ba-9cd3-4e36-a046-fd31753cca07.mp4
 
 ### É uma aplicação da técnica pomodoro, feita para gerenciar o tempo da tarefa.
 
@@ -30,13 +30,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - TypeScript
 - Styled-components
 - React-router-dom
+- React-hook-form
 - Figma
 - Vite
-
-## Biblioteca usadas
-
 - date-fns
-- React-hook-form
 - zod
 
 </br>
