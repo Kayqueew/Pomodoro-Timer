@@ -8,7 +8,6 @@
 
 ## 💻 Projeto
 
-https://user-images.githubusercontent.com/92122337/222561778-1aa9a0ba-9cd3-4e36-a046-fd31753cca07.mp4
 
 ### É uma aplicação da técnica pomodoro, feita para gerenciar o tempo da tarefa.
 
