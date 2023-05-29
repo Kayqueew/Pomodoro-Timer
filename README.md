@@ -7,7 +7,7 @@
 <br>
 
 ## 💻 Projeto
-https://user-images.githubusercontent.com/92122337/222561778-1aa9a0ba-9cd3-4e36-a046-fd31753cca07.mp4
+[https://user-images.githubusercontent.com/92122337/222561778-1aa9a0ba-9cd3-4e36-a046-fd31753cca07.mp4](https://github.com/Kayqueew/Pomodoro-Timer/assets/92122337/b96adba7-1c28-46e3-b472-96684786a7c0)
 
 
 
